@@ -1,0 +1,17 @@
+# Compiled output
+out/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data file (optional — remove this line if you want to track sample data)
+# data/expenses.csv
